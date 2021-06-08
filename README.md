@@ -4,7 +4,7 @@
 
 |       Enunciado                |            Tema resumido           |               Respostas                   
 |--------------------------------|------------------------------------------|-------------------|
-|      [Exercicio 1](#ancora1)     |   Exercicios em python : 10 numero pares   |[Resolução](src/exercicios/10_n_pares.py)    |   
+|      [Exercicio 1](#ancora1)     |   Exercicios em python : 10 numero pares   |[Resolução](exercicios/10_n_pares.py)    |   
 |      [Exercicio 2](#ancora2)     |   Exercicios em python : 10 numero pares    |[Resolução](src/desafios/Desafio2.kt)    |   
 |      [Exercicio 3](#ancora3)     |    Exercicios em python : 10 numero pares   |[Resolução](src/desafios/Desafio3.kt)    |   
 |      [Exercicio 4](#ancora4)     |    Exercicios em python : 10 numero pares  |[Resolução](src/desafios/Desafio4.kt)    |   
