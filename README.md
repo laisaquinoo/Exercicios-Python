@@ -1,5 +1,5 @@
 # Exercicios simples em Python
-> Exercicios simples feito em sala de aula para introdução a programação e python
+> Exercicios feito em aula para introdução a programação e python
 <a name="ancora"></a>
 
 |       Enunciado                |            Exercicio resumido           |               Respostas                   
@@ -17,7 +17,7 @@
  imprimir os 10 primeiros números pares a partir de 1
  
 ## Executando
-<img height="200" width="380" src="imagens/Imagem1.png"/>
+<img img height="150" width="280" src="imagens/Imagem1.png"/>
 
 # <a id="ancora2"></a>[Exercicio 2](#ancora)
 Receber a entrada de nome, nota1, nota2 e calcular a média do aluno aprovado ou reprovado com nota menor igual a sete.
