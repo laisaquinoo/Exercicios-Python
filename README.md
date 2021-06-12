@@ -16,6 +16,7 @@
 |      [Exercicio 10](#ancora10)   |   Exercicio em python : Notas de aluno semestre         |[Resolução](exercicios/notas_prova.py)                 |   
 |      [Exercicio 11](#ancora11)   |   Exercicio em python : Modulo de um número             |[Resolução](exercicios/num_módulo.py)                  |   
 |      [Exercicio 12](#ancora12)   |   Exercicio em python : Impar ou par                    |[Resolução](exercicios/num_par_ou_impar.py)            |  
+|      [Exercicio 13](#ancora13)   |   Exercicio em python : Positivo ou Negativo            |[Resolução](exercicios/num_positivo_negativo.py)      | 
  
   
 # <a id="ancora1"></a>[Exercicio 1](#ancora)
@@ -91,3 +92,9 @@ Receber a entrada de um numero e retornar se é par ou impar
  
 ## Executando
 <img height="200" width="380" src="imagens/Imagem12.png"/>
+
+# <a id="ancora13"></a>[Exercicio 13](#ancora)
+Receber a entrada de um numero e retornar se é positivo ou negativo            
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem13.png"/>
