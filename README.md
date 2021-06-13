@@ -126,6 +126,7 @@ Exibir todos os numeros de 50 até 1
  
 ## Executando
 <img height="200" width="380" src="imagens/Imagem16.png"/>
+...
 
 # <a id="ancora17"></a>[Exercicio 17](#ancora)
 Exiba os multiplos de 10 de 10 ate 100, acrescente a msg multip0lo de 10   
