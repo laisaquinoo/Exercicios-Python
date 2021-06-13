@@ -2,8 +2,8 @@
 > Exercicios feito em aula para introdução a programação e python
 <a name="ancora"></a>
 
-|       Enunciado                  |            Exercicio resumido                    |               Respostas                                      |       
-|----------------------------------|--------------------------------------------------|--------------------------------------------------------------|
+|       Enunciado                  |            Exercicio resumido                           |               Respostas                               |       
+|----------------------------------|---------------------------------------------------------|-------------------------------------------------------|
 |      [Exercicio 1](#ancora1)     |   Exercicio em python : 10 numero pares                 |[Resolução](exercicios/10_n_pares.py)                  |   
 |      [Exercicio 2](#ancora2)     |   Exercicio em python : Aluno aprovado e reprovado      |[Resolução](exercicios/aluno_aprovado_reprovado.py)    |   
 |      [Exercicio 3](#ancora3)     |   Exercicio em python : Calculo básico                  |[Resolução](exercicios/conta.py)                       |     
@@ -16,7 +16,17 @@
 |      [Exercicio 10](#ancora10)   |   Exercicio em python : Notas de aluno semestre         |[Resolução](exercicios/notas_prova.py)                 |   
 |      [Exercicio 11](#ancora11)   |   Exercicio em python : Modulo de um número             |[Resolução](exercicios/num_módulo.py)                  |   
 |      [Exercicio 12](#ancora12)   |   Exercicio em python : Impar ou par                    |[Resolução](exercicios/num_par_ou_impar.py)            |  
-|      [Exercicio 13](#ancora13)   |   Exercicio em python : Positivo ou Negativo            |[Resolução](exercicios/num_positivo_negativo.py)      | 
+|      [Exercicio 13](#ancora13)   |   Exercicio em python : Positivo ou Negativo            |[Resolução](exercicios/num_positivo_negativo.py)       | 
+|      [Exercicio 14](#ancora14)   |   Exercicio em python : Numero valido ou invalido       |[Resolução](exercicios/num_valido_invalido.py)         |    
+|      [Exercicio 15](#ancora15)   |   Exercicio em python : Peso ideal                      |[Resolução](exercicios/peso.PY)                        |   
+|      [Exercicio 16](#ancora16)   |   Exercicio em python : Range de 50 ao 1                |[Resolução](exercicios/range_50a1.py)                  |   
+|      [Exercicio 17](#ancora17)   |   Exercicio em python : Range múltiplos de 10           |[Resolução](exercicios/range_multiplosde10.py)         |   
+|      [Exercicio 18](#ancora18)   |   Exercicio em python : Calcular salario diário         |[Resolução](exercicios/salario_diário.py)              |   
+|      [Exercicio 19](#ancora19)   |   Exercicio em python : Somar números pares e impar     |[Resolução](exercicios/soma_impar_par.py)              | 
+|      [Exercicio 20](#ancora20)   |   Exercicio em python : Somar números anteriores        |[Resolução](exercicios/somatorio_num_anterior.py)      |   
+|      [Exercicio 21](#ancora21)   |   Exercicio em python : Tabuada                         |[Resolução](exercicios/tabuada (2).py)                 |   
+|      [Exercicio 22](#ancora22)   |   Exercicio em python : Tipos de triangulo              |[Resolução](exercicios/tipo_triangulo.py)              |  
+|      [Exercicio 23](#ancora23)   |   Exercicio em python : While 5 em 5 até 100            |[Resolução](exercicios/while_5em5a100.py)              | 
  
   
 # <a id="ancora1"></a>[Exercicio 1](#ancora)
@@ -98,3 +108,63 @@ Receber a entrada de um numero e retornar se é positivo ou negativo
  
 ## Executando
 <img height="200" width="380" src="imagens/Imagem13.png"/>
+
+# <a id="ancora14"></a>[Exercicio 14](#ancora)
+Receber a entrada de um numero se caso estiver entre 0 e 9 retornar a mensagem de valido se não invalido          
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem14.png"/>
+
+# <a id="ancora15"></a>[Exercicio 15](#ancora)
+Receber a entrada de nome, altura e qual o gênero (feminino ou masculino), retornar o peso ideal       
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem15.png"/>
+
+# <a id="ancora16"></a>[Exercicio 16](#ancora)
+Exibir todos os numeros de 50 até 1      
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem16.png"/>
+
+# <a id="ancora17"></a>[Exercicio 17](#ancora)
+Exiba os multiplos de 10 de 10 ate 100, acrescente a msg multip0lo de 10   
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem17.png"/>
+
+# <a id="ancora18"></a>[Exercicio 18](#ancora)
+calcular o salario diário, baseado no salario e dias trabalhados inseridos  
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem18.png"/>
+
+# <a id="ancora19"></a>[Exercicio 19](#ancora)
+Escrever um programa que leia um conjunto de números positivos e exiba se o número lido é par ou ímpar. Exiba ao final a soma total dos números pares lidos e também a soma dos números ímpares lidos. Suporemos que o número de elementos deste conjunto não é conhecido, e que um número negativo será utilizado para sinalizar o fim dos dados. 
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem19.png"/>
+
+# <a id="ancora20"></a>[Exercicio 20](#ancora)
+calcule o somatorio de todos os numeros  anteriores até o numero digitado  
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem20.png"/>
+
+# <a id="ancora21"></a>[Exercicio 21](#ancora)
+Apartir de um numero digitado pelo usuario, exiba a tabuada  
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem21.png"/>
+
+# <a id="ancora22"></a>[Exercicio 22](#ancora)
+Apartir de um dos tamanho dos lados do triangulo inserido falar qual é o seu tipo
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem22.png"/>
+
+# <a id="ancora23"></a>[Exercicio 23](#ancora)
+Exibir todos os multiplos de 5 para numero de 5 a 100
+ 
+## Executando
+<img height="200" width="380" src="imagens/Imagem23.png"/>
