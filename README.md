@@ -24,7 +24,7 @@
 |      [Exercicio 18](#ancora18)   |   Exercicio em python : Calcular salario diário         |[Resolução](exercicios/salario_diário.py)              |   
 |      [Exercicio 19](#ancora19)   |   Exercicio em python : Somar números pares e impar     |[Resolução](exercicios/soma_impar_par.py)              | 
 |      [Exercicio 20](#ancora20)   |   Exercicio em python : Somar números anteriores        |[Resolução](exercicios/somatorio_num_anterior.py)      |   
-|      [Exercicio 21](#ancora21)   |   Exercicio em python : Tabuada                         |[Resolução](exercicios/tabuada (2).py)                 |   
+|      [Exercicio 21](#ancora21)   |   Exercicio em python : Tabuada                         |[Resolução](exercicios/tabuada(2).py)                 |   
 |      [Exercicio 22](#ancora22)   |   Exercicio em python : Tipos de triangulo              |[Resolução](exercicios/tipo_triangulo.py)              |  
 |      [Exercicio 23](#ancora23)   |   Exercicio em python : While 5 em 5 até 100            |[Resolução](exercicios/while_5em5a100.py)              | 
  
